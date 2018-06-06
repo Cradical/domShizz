@@ -1,4 +1,4 @@
-# DOM Breakout Code along 
+# DOM Breakout Code along
 
 ### Description
 - this repo was made to get a better understanding of how to select elements using pure JS
@@ -11,6 +11,8 @@
     - creating new elements
 
 - Enjoy nerds 🤓
+
+*/I am making a change to the readme.md file. Good luck JSAers/*
 
 ##### Edit
 * now with jQuery
